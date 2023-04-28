@@ -4,10 +4,6 @@ import csv
 import datetime
 
 file = open('all_pages.txt', 'r')
-#contents = []
-#with open('bike_list2.csv', 'w+', newline='', errors="ignore") as i:
-#    write = csv.DictWriter(i, fieldnames=['Title', 'Price', 'Views', 'Watches', 'Views/Watches', 'Link'])
-#    write.writeheader()
 
 for line in file.readlines():
     response = requests.get(line)
