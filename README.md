@@ -12,7 +12,7 @@ Used Pandas and SQL to perform data analysis with data in CSV file. For example,
 
 ## Results
 
-Wheelsets and Ultimate (brand) bikes were the listings with the most interest and some of the highest prices.
+Wheelsets and Ultimate (brand) bikes were the listings with the most interest and saw some of the highest prices.
 
 ## Optimizations
 
